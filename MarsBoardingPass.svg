@@ -1,6 +1,6 @@
 <svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
-		<div>
+		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
         			.ticketImgRatio {
 				  	padding-top: 40.875%;
@@ -15,9 +15,8 @@
 			
 		      	<div style="position: relative">
 				<figure class="ticketImgRatio"></figure>
-			  		<div id="ticketID" class="number">M2M669191841365</div>
-			    		<div id="ticketName" class="NameText">Florian</div>
-				</div>
+			  	<div id="ticketID" class="number">M2M669191841365</div>
+			    	<div id="ticketName" class="NameText">Florian</div>
 		      	</div>
 		</div>
 	</foreignObject>
