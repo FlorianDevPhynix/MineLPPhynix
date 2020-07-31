@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# My name is **MineLPPhynix** and *Welcome* to my profile page
+
+<div align="center">
+  <img src="MarsBoardingPass.svg" width="800" height="400">
+</div>
+
 <!--
 **MineLPPhynix/MineLPPhynix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
