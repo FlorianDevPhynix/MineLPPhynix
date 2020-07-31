@@ -92,11 +92,6 @@
 			    		<div id="ticketName" class="NameText">Florian</div>
 				</div>
 		      	</div>
-      
-			<div style="width: 100%; max-width: 1440px; position: relative;">
-        <image src="mars_future_boarding_pass.5de17b8d.jpg"></image>
-        <div class="nametag" style="position: absolute; top: 32%; left: 34%; font-size: 3em; line-height: normal; width: 42%;">MineLPPhynix</div>
-      </div>
 		</div>
 	</foreignObject>
 </svg>
