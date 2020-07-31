@@ -6,7 +6,7 @@
 				  	padding-top: 40.875%;
     					height: 0;
     					margin: 0;
-				    	background-image: url(mars_future_boarding_pass.5de17b8d.jpg);
+				    	background-image: url("mars_future_boarding_pass.5de17b8d.jpg");
 				    	background-size: cover;
 				    	background-position: 50%;
 				    	background-repeat: no-repeat;
@@ -16,7 +16,7 @@
 		      	<div style="position: relative">
 				<figure class="ticketImgRatio"></figure>
 			  	<div id="ticketID" class="number">M2M669191841365</div>
-			    	<div id="ticketName" class="NameText">Florian</div>
+			    	<div id="ticketName" class="NameText">MineLPPhynix</div>
 		      	</div>
 		</div>
 	</foreignObject>
