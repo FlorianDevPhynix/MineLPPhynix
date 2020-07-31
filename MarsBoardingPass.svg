@@ -75,24 +75,23 @@
 					text-shadow: 0 1px 0 #efefef;
 					animation: 5s ease 0s normal forwards 1 fadeIn;
 				}
-        .nametag {
-          position: absolute;
-          top: 32%; left: 34%; 
-          ont-size: 3em;
-          line-height: normal;
-          width: 42%;
-        }
+        			.ticketImgRatio {
+				  	padding-top: 40.875%;
+    					height: 0;
+    					margin: 0;
+				    	background-image: url(mars_future_boarding_pass.5de17b8d.jpg);
+				    	background-size: cover;
+				    	background-position: 50%;
+				    	background-repeat: no-repeat;
+				}
 			</style>
-      <div data-v-b17498e4="" id="BoardingTicket">
-        <div data-v-b17498e4="" class="no-canvas-version">
-          <figure data-v-b17498e4="" class="ticketImgRatio"></figure>
-          <div data-v-b17498e4="" id="ticketID" class="number">M2M669191841365</div>
-          <div data-v-b17498e4="" id="ticketName" class="name">
-            <div data-v-b17498e4="" id="ticketNameFirst" class="firstNameText">Florian</div>
-            <div data-v-b17498e4="" id="ticketNameLast" class="lastNameText">Stemmler</div>
-          </div>
-        </div>
-      </div>
+			
+		      	<div style="position: relative">
+				<figure class="ticketImgRatio"></figure>
+			  		<div id="ticketID" class="number">M2M669191841365</div>
+			    		<div id="ticketName" class="NameText">Florian</div>
+				</div>
+		      	</div>
       
 			<div style="width: 100%; max-width: 1440px; position: relative;">
         <image src="mars_future_boarding_pass.5de17b8d.jpg"></image>
