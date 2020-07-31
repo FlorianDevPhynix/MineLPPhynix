@@ -2,11 +2,11 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-        			.ticketImgRatio {
+        			#ticketImgRatio {
 				  	padding-top: 40.875%;
     					height: 0;
     					margin: 0;
-				    	background-image: url("mars_future_boarding_pass.5de17b8d.jpg");
+				    	background: url("mars_future_boarding_pass.5de17b8d.jpg");
 				    	background-size: cover;
 				    	background-position: 50%;
 				    	background-repeat: no-repeat;
@@ -14,9 +14,9 @@
 			</style>
 			
 		      	<div style="position: relative">
-				<figure class="ticketImgRatio"></figure>
-			  	<div id="ticketID" class="number">M2M669191841365</div>
-			    	<div id="ticketName" class="NameText">MineLPPhynix</div>
+				<div id="ticketImgRatio"></div>
+			  	<a id="info" href="https://github.com/MineLPPhynix?tab=repositories">My Github</div>
+			    	<div id="name">MineLPPhynix</div>
 		      	</div>
 		</div>
 	</foreignObject>
