@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# My name is **MineLPPhynix** and *Welcome* to my profile page
+# My name is **Florian** and *Welcome* to my profile page
 
 Work in Progress lol
 
