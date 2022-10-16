@@ -1,4 +1,4 @@
-## Hi there 👋 , my name is **Florian**#
+## Hi there 👋, my name is **Florian**
 im a hobby software developer and student
 
 #### Some of my Projects
