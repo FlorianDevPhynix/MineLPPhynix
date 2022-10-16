@@ -1,24 +1,11 @@
-### Hi there 👋
+## Hi there 👋 , my name is **Florian**#
+im a hobby software developer and student
 
-# My name is **Florian** and *Welcome* to my profile page
+#### Some of my Projects
+- A React App that uses pokeapi.co to show a [list of Pokemons](https://github.com/MineLPPhynix/pokemon-list-react)
 
-Work in Progress lol
+![Mars Boarding Pass](MarsBoardingPass.svg)
 
 <div align="center">
   <img src="MarsBoardingPass.svg" width="800" height="400">
 </div>
-
-<!--
-**MineLPPhynix/MineLPPhynix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
